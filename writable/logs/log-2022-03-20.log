@@ -1,0 +1,8 @@
+CRITICAL - 2022-03-20 19:05:50 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 C:\barberiarest\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#1 C:\barberiarest\spark(45): require('C:\\barberiarest...')
+#2 {main}
+CRITICAL - 2022-03-20 19:06:31 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 C:\barberiarest\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#1 C:\barberiarest\spark(45): require('C:\\barberiarest...')
+#2 {main}
